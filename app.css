@@ -1,0 +1,13 @@
+body {
+  background: #222831;
+  color: #ffffff;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
